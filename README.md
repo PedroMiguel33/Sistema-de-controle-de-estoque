@@ -1,7 +1,7 @@
 
 # Sistema de Controle de Estoque
 
-Aqui está um simples sistema feito para controle de fluxo, um projeto simples mas que entrega uma boa base para um começo da programação com o uso de banco de dados. Nesse caso estamos utilizando o banco de dados relacional: Microsoft SQL Server.
+Aqui está um simples sistema feito para controle de estoque, um projeto simples mas que entrega uma boa base para um começo da programação com o uso de banco de dados. Nesse caso estamos utilizando o banco de dados relacional: Microsoft SQL Server.
 
 Todo o conteúdo do projeto foi feito durante uma gravação de vídeos-aulas, que postarei no meu canal do YouTube, Link abaixo.
 
